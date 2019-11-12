@@ -39,7 +39,7 @@
 #define HBA_QUAD_COREID        5
 #define HBA_GPIO_COREID        6
 #define HBA_SPEED_CTRL_COREID  7
-#define HBA_SERVOS_COREID      8
+#define HBA_SERVO_COREID       8
 
         // Maximum size of input/output string
 #define MX_MSGLEN          120
